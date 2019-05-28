@@ -1,0 +1,4 @@
+reforma,reforma,el reforma
+expansion,expansion
+el universal,eluniversal,universal
+el informador,informador,fuente,periodico

@@ -1,0 +1,54 @@
+portada,portada,resumen,principal
+internacional,internacional,internacionales,mundial,mundo
+ciencia y tecnología,ciencia_tecnologia_tendencias,ciencias,tendencia,tecnologia,tecnologias,tecnología,tendencias,tecnologia,ciencia
+estados unidos,estados_unidos,USA
+jalisco,jalisco,en jalisco
+noticias nacionales,mexico_nacional,mexico nacional,nación,nacional,méxico
+universidades,universidades,universidad
+gobierno del estado,gobierno_estado
+gobierno de mexico,gobierno_mexico,gobierno
+economía,economia,economia
+empresas,empresas_pymes,pymes,empresas
+dolar,dolar,el dolar
+economía mexicana,economia_mexicana,economía en méxico
+deportes,deportes,el deporte,deporte,deportivo,los deportes
+chivas,chivas,las chivas
+atlas,atlas
+futbol mexicano,futbol_mexicano,futbol nacional
+liga mx,liga_mx
+copa mx,copa_mx
+futbol internacional,futbol_internacional,futbol,futbol en el mundo
+barcelona,barcelona
+real madrid,real_madrid
+formula uno,formula_uno
+charros jalisco,charros_jalisco
+beisbol,beisbol
+nfl,nfl
+nba,nba
+atletismo,atletismo
+tenis,tenis
+toros,toros
+entretenimiento,entretenimiento
+cine,cine
+musica,musica
+televisión,television,television
+farandula,farandula
+conciertos,conciertos
+teatro,teatro
+netflix,netflix
+nasa,nasa
+literatura,literatura
+internet,internet
+redes sociales,redes_sociales
+whatsapp,whatsapp
+instagram,instagram
+facebook,facebook
+twitter,twitter
+youtube,youtube
+medio ambiente,medio_ambiente
+moda,moda
+gadgets,gadgets
+salud,salud
+smartphones,smartphones,teléfonos inteligentes,telefonos inteligentes
+cultura,cultura
+automotriz,automotriz,automoviles,autos

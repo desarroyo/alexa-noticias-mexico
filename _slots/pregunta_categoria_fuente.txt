@@ -1,0 +1,21 @@
+noticias,
+dame noticias,
+dime noticias,
+Deseo escuchar las noticias sobre,
+Deseo escuchar las noticias de,
+Deseo escuchar las noticias del,
+quiero escuchar sobre,
+quiero escuchar,
+Necesito escuchar sobre,
+Necesito escuchar,
+Necesito escuchar el,
+dime noticias del,
+Dame noticias del,
+dime noticias sobre,
+dime noticias de,
+Dame noticias de,
+Dame noticias sobre,
+"Infórmame sobre las noticias del ",,Infórmame sobre las noticias de,"Informame sobre las noticias del "
+"Que dice el resumen de noticias sobre ",,Que dice el resumen de noticias acerca de,Que dice el resumen de noticias acerca
+"Quiero escuchar las noticias sobre ",,Quiero escuchar las noticias acerca de
+"Deseo escuchar las noticias sobre ",,Deseo escuchar las noticias acerca
